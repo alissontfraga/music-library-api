@@ -1,0 +1,1 @@
+# Music Library Rest API with Python, FastAPI, SQLAlchemy, Pydantic, PostgreSQL
